@@ -14,13 +14,13 @@ There are 4 different browsers configuration set up [Google Chrome, Mozilla Fire
 
 # Execution:
 * Clone the repository.
-* Navigate to \NathanJamesWorkSample\src\test\java\testSuites to find Test Suites for each browser.
+* Navigate to \AmericanCancerSocietyWorkSample\src\test\java\testSuites to find Test Suites for each browser.
 
 # Logging:
 * log4j configured to capture the test execution logs
-* Configuration file is located in the \NathanJamesWorkSample\src\test\resources
-* Execution log is captured in the \NathanJamesWorkSample\logs
+* Configuration file is located in the \AmericanCancerSocietyWorkSample\src\test\resources
+* Execution log is captured in the \AmericanCancerSocietyWorkSample\logs
 
 # Screenshot:
 * Most of the time we think to Capture Screenshot in WebDriver when some kind of error or exception surfaces while practicing testing, to resolve the same the framework has a method.
-* Screenshots are store it in the \NathanJamesWorkSample\screenShots
+* Screenshots are store it in the \AmericanCancerSocietyWork Sample\screenShots
